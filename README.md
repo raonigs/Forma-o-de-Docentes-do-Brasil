@@ -1,4 +1,4 @@
-# Forma-o-de-Docentes-do-Brasil
+# Formação de Docentes do Brasil
 Análise dos dados do INEP sobre as formações de docentes do Brasil. Os dados foram obtidos pelo datalake do repositório da @basedosdados, uma limpeza e pré-processamento foram feitos em linguagem SQL para extração dos dados primários e posterior análise exploratória, visualização, criação de gráficos e elaboração do Dashboard.
 
 O primeiro gráfico (barras empilhadas) mostra as categorias de professores e suas porcentagens nas diferentes categorias de ensino (Educação Infantil, EJA Ensino Fundamental, EJA Ensino Médio, Ensino Fundamental e Ensino Médio) para o ano de 2020:
